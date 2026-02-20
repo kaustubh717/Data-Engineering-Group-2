@@ -1,0 +1,9 @@
+## Requirements
+
+Install the following before running the project:
+
+- Python 3.9+
+- MySQL Server (running locally)
+- MongoDB Community Edition (running locally)
+
+Install Python dependencies: pip install prefect pandas sqlalchemy pymysql pymongo streamlit
